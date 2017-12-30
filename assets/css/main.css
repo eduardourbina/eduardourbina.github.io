@@ -22,6 +22,12 @@
 		display: block;
 	}
 
+	header h2 {
+		font-family: 'Great Vibes';
+		font-size: xx-large;
+
+	}
+
 	body {
 		line-height: 1;
 	}
